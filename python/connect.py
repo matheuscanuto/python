@@ -1,7 +1,7 @@
 import sqlite3
 
 bank=sqlite3.connect('first_bank.db')
-cursor=banco.cursor()
+cursor=bank.cursor()
 
 cursor.execute("CREATE TABLE people (name text,  age integer, email text)")
 
