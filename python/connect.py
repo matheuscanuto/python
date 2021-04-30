@@ -1,4 +1,4 @@
-import sqlite3
+import sqlite3 #import library
 
 bank=sqlite3.connect('first_bank.db')
 cursor=bank.cursor()
