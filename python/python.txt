@@ -1,0 +1,1 @@
+through the create.py file to create any file, be it html, css, javascript and etc.
